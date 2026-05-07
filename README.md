@@ -3,6 +3,6 @@
 Completada la importación de los clientes en el localhost, es una lista de 10 personas en la sección de ventas.
 Abrimos con el perfil del comerciante y vemos lo que vería él. 
 Ahora toca crear un producto, para ello tenemos que volver al perfil del administrador y crear un producto.En mi caso, he creado un ratón inalámbrico que cuesta 20,00$ de salida y 15,00$ de coste. 
-<img width="903" height="868" alt="image" src="https://github.com/user-attachments/assets/dda5a6ba-f065-46aa-b90b-8720fdfd6d56" />
+<img width="503" height="668" alt="image" src="https://github.com/user-attachments/assets/dda5a6ba-f065-46aa-b90b-8720fdfd6d56" />
 Creamos la factura del producto a "Factura normal"
 
