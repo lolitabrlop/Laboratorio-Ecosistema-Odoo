@@ -7,3 +7,4 @@ Creamos la factura del producto a "Factura normal"
 
 ## Fase 2
 Accedemos a través de filtro "Clave" al editor de texto integrado a modificar a continuación.
+Realizado el cambio del HTML al que le hemos añadido un <div> para enriquecer en color nuestro pedido, nos lo descargamos y nos devuelve un pdf que tendremos que descargar para comprobar.
