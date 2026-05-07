@@ -6,3 +6,5 @@ Ahora toca crear un producto, para ello tenemos que volver al perfil del adminis
 <img width="303" height="268" alt="image" src="https://github.com/user-attachments/assets/dda5a6ba-f065-46aa-b90b-8720fdfd6d56" />
 Creamos la factura del producto a "Factura normal"
 
+## Fase 2
+Accedemos a través de filtro "Clave" al editor de texto integrado a modificar a continuación.
